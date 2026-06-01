@@ -1,9 +1,14 @@
 cff-version: "1.2.0"
 message: "If you reference or use Purposeful Readme, please cite it using the metadata from this file."
 title: "Purposeful Readme"
-abstract: "Purposeful Readme is an open standard for writing README files with clearer communicative intent, structure, and usefulness for human and machine readers."
+abstract: "A specification and style guide for README.md files that defines an ordered, structured format enabling fast human comprehension and reliable machine parsing."
+authors:
+  - family-names: "Nicholas"
+    given-names: "KeNikthyan"
+    orcid: "https://orcid.org/0009-0003-5258-6111"
 repository-code: "https://github.com/purposeful-readme/purposeful-readme"
 license: "CC-BY-4.0"
+version: "0.1.0"
 keywords:
   - "README"
   - "documentation"
